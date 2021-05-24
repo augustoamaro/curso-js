@@ -1,0 +1,2 @@
+Duplicar linha - Shift + Alt + Baixo
+Deletar linha - Shift + Delete
